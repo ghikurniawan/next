@@ -1,0 +1,100 @@
+{
+  "O1001": {
+    "U1001": {
+      "M1001": {
+        "A1001": {
+          "N1001": {
+            "V1001": {
+              "Q1001": {
+                "B": "Peking duck is a dish from Beijing that has been prepared since the Imperial era. The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook. Ducks bred especially for the dish are slaughtered after 65 days and seasoned before being roasted in a closed or hung oven.",
+                "C": "Peking Duck",
+                "D": "$68.00",
+                "E": "E",
+                "F": "F",
+                "G": "G",
+                "H": "H",
+                "I": "I",
+                "J": "J",
+                "K": "K",
+                "L": "L",
+                "P": "Only for Dinner",
+                "R": "R",
+                "S": "S",
+                "T": "T",
+                "W": "W",
+                "X": 1001,
+                "Y": "Y",
+                "Z": 1700870600000
+              },
+              "Q1002": {
+                "B": "Kung Pao chicken also transcribed Gong Bao or Kung Po, is a spicy, stir-fried Chinese dish made with cubes of chicken, peanuts, vegetables and chili peppers. The classic dish in Sichuan cuisine originated in the Sichuan province of south-western China and includes Sichuan peppercorns.",
+                "C": "Gong Bao Chicken",
+                "D": "$45.00",
+                "E": "E",
+                "F": "F",
+                "G": "G",
+                "H": "H",
+                "I": "I",
+                "J": "J",
+                "K": "K",
+                "L": "L",
+                "P": "Lunch, Dinner",
+                "R": "R",
+                "S": "S",
+                "T": "T",
+                "W": "W",
+                "X": 1001,
+                "Y": "Y",
+                "Z": 1700870600000
+              }
+            },
+            "V1002": {
+              "Q1001": {
+                "B": "Peking duck is a dish from Beijing that has been prepared since the Imperial era. The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook. Ducks bred especially for the dish are slaughtered after 55 days and seasoned before being roasted in a closed or hung oven.",
+                "C": "Peking Duck",
+                "D": "$73.00",
+                "E": "E",
+                "F": "F",
+                "G": "G",
+                "H": "H",
+                "I": "I",
+                "J": "J",
+                "K": "K",
+                "L": "L",
+                "P": "Only for Dinner",
+                "R": "R",
+                "S": "S",
+                "T": "T",
+                "W": "W",
+                "X": 1001,
+                "Y": "Y",
+                "Z": 1700870600000
+              },
+              "Q1002": {
+                "C": "Gong Bao Chicken",
+                "B": "Kung Pao chicken also transcribed Gong Bao or Kung Po, is a spicy, stir-fried Chinese dish made with cubes of chicken, peanuts, vegetables and chili peppers. The classic dish in Sichuan cuisine originated in the Sichuan province of south-western China and includes Sichuan peppercorns.",
+                "D": "$45.00",
+                "E": "E",
+                "F": "F",
+                "G": "G",
+                "H": "H",
+                "I": "I",
+                "J": "J",
+                "K": "K",
+                "L": "L",
+                "P": "Lunch, Dinner",
+                "R": "R",
+                "S": "S",
+                "T": "T",
+                "W": "W",
+                "X": 1001,
+                "Y": "Y",
+                "Z": 1700870600000
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
